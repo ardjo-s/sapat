@@ -1,0 +1,19 @@
+tests/test_fireworks.py
+  s_fbb6493f1b295f::t_387c3500ae6ddf 111-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "a4f5a862d699f67cc5c88226aa85276e50429a3b",
+  "prompts": {},
+  "sessions": {
+    "s_fbb6493f1b295f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b256b7d3-47d0-4886-b168-04536799e41a",
+        "model": "composer-2"
+      },
+      "human_author": "ardjo <hi@ardjo.design>"
+    }
+  }
+}
